@@ -55,3 +55,6 @@
 5.  **Dominância:** Ocorre quando uma estratégia é superior a outra, independentemente do que os outros jogadores façam. Na dominância estrita, uma estratégia sempre oferece um payoff maior; na dominância fraca, ela é pelo menos tão boa quanto as outras em todas as situações e estritamente melhor em pelo menos uma.
   
 6.  **Estratégias Mistas:** Refere-se a uma distribuição de probabilidade sobre o conjunto de estratégias puras de um jogador. Nesse caso, o jogador não escolhe uma única ação determinística, mas utiliza a randomização para decidir qual ação tomar, muitas vezes para evitar ser explorado por oponentes.
+
+**PROJETO DO NOTEBOOKLM:**
+  https://notebooklm.google.com/notebook/2a9dee4e-abfd-49b3-9189-d3618b930d10
